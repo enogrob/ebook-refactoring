@@ -17,10 +17,10 @@ Learn everything you need to about the subject of this `eBook` project.
 
 ## Topics
 ```
-[ ] Foreword
-[ ] Preface
-[ ] Acknowledgments
-[ ] About the Authors
+[x] Foreword
+[x] Preface
+[x] Acknowledgments
+[x] About the Authors
 
 Chapter 1: Refactoring, a First Example
 [ ] The Starting Point
